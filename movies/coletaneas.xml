@@ -12,6 +12,15 @@
 </channel>
 
 <channel>
+<name>John Wick</name>
+<genre>Action, Thriller e Crime</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/k0rO6VY5VRAw25jDBlNUmfFEG9B.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg</fanart>
+<info>Uma série de filmes de ação e suspense neo-noir sobre um ex-assassino, Jonathan 'John' Wick, que sai da aposentadoria buscando vingança pelo roubo de seu carro antigo e pela morte de seu cachorrinho.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/coletaneas/404609.xml</externallink>
+</channel>
+
+<channel>
 <name>A Hora do Pesadelo</name>
 <year>2025</year>
 <genre>Terror</genre>
