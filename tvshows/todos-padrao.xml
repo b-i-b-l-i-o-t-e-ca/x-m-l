@@ -662,6 +662,20 @@
 
 
 
+<!-- SERIES LETRA Z INCIAL -->
+
+<channel>
+<name>Zootopia+</name>
+<year>2022</year>
+<genre>Animação, Família e Action & Adventure</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/pcWy2oFpb2whagjUWcwoHI1d7IP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nt5FbTiBWzvx0TGAhLSybvyreEz.jpg</fanart>
+<info>Inteligente, sarcástica e apática, Wandinha Addams pode estar meio morta por dentro, mas na Escola Nunca Mais ela vai fazer amigos, inimigos e investigar assassinatos.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/114463.xml</externallink>
+</channel>
+
+
+
 
   
 </channels>
