@@ -341,13 +341,13 @@
 </channel>
 
 <channel>
-<name></name>
+<name>Destruição Final</name>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<externallink></externallink>
+<genre>Adventure, Action, Thriller e Science Fiction</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/3Hj9iNJOMBUz4foX9D82wzY39sa.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1bWiBEEmdQCkdI4pQ5iVpURznxn.jpg</fanart>
+<info>Uma série de filmes de ficção científica sobre desastres, que acompanha os esforços de uma família para sobreviver ao impacto de um cometa capaz de destruir o planeta.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/coletaneas/840465.xml</externallink>
 </channel>
 
 <channel>
