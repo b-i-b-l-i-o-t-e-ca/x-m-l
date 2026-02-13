@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
-
 <channel>
 <name>LANÇAMENTOS</name>
-<thumbnail>https://github.com/anonimo2027/Biblioteca-oficial/blob/main/icon/Filmes.png?raw=true</thumbnail>
-<fanart>https://wallpapers.com/images/high/movie-theater-background-1920-x-1080-vatsy4ql6shlquz4.webp</fanart>
-<info>MELHORES LANÇAMENTOS DO ANO VOCÊ ENCONTRA AQUI COM ALTA QUALIDADE VOCÊ TAMBÉM PODE PROGRAMAR UM FILME QUE AINDA ESTÁ EM EXIBIÇÃO NO CINEMA PARA SE ADICIONADO MAIS RÁPIDO POSSÍVEL COM ALTA QUALIDADE</info>
-<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/lan%C3%A7amentos.xml</externallink>
-</channel>
-
-<channel>
-<name>EM EXIBIÇÃO</name>
 <thumbnail>https://github.com/anonimo2027/Biblioteca-oficial/blob/main/icon/Filmes.png?raw=true</thumbnail>
 <fanart>https://wallpapers.com/images/high/movie-theater-background-1920-x-1080-vatsy4ql6shlquz4.webp</fanart>
 <info>SÉRIES EM EXIBIÇÃO FICAM OS EPISÓDIOS QUE SÃO ADICIONADOS SEMANALMENTE ASSIM VOCÊ SEMPRE FICA ATUALIZANDO</info>
