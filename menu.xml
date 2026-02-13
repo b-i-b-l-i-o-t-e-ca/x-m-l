@@ -20,13 +20,6 @@ SE ALGUM FILME ESTIVER COM TRAVAMENTO OU  NÃO CONSEGUIR REPRODUZIR VOCÊ PODE M
 <externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/menu.xml</externallink>
 </channel>
 
-<channel>
-<name>KIDS</name>
-<thumbnail>https://github.com/anonimo2027/Biblioteca-oficial/blob/main/icon/series.png?raw=true</thumbnail>
-<fanart>https://wallpapers.com/images/high/movie-theater-background-1920-x-1080-vatsy4ql6shlquz4.webp</fanart>
-<info>AQUI A CRIANÇADA PODE SE DIVERTIR ASSISTINDO OS MELHORES FILMES, DESENHOS INFANTIL SEM VOCÊ SE PREOCUPAR.</info>
-<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/kids/menu.xml</externallink>
-</channel>
 
   
 </channels>
