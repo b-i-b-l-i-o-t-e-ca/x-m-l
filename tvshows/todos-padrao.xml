@@ -604,6 +604,16 @@
 <!-- SERIES LETRA T INCIAL -->
 
 <channel>
+<name>Todo Mundo Odeia o Chris</name>
+<year>2005</year>
+<genre>Comédia</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/dXyy1e3TJ5ut6DRCrQQT3TcsrGU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qji729gwCW88RpIIWidlaLTul3V.jpg</fanart>
+<info>Para Chris, fazer 13 anos não tem nada de maravilhoso. Ele é o único negro da turma do ensino médio, onde tem uma educação medíocre. É amigo de Greg, e é frequentemente abusado por Joey Caruso. Ambos os pais trabalham e ele cuida de seus dois irmãos. Parece trágico, mas é hilário.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/252/252.xml</externallink>
+</channel>
+
+<channel>
 <name>Twisted Metal</name>
 <year>2023</year>
 <genre>Action & Adventure e Comédia</genre>
