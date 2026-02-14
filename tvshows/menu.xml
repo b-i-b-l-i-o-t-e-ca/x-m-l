@@ -4,7 +4,7 @@
 <channel>
 <name>LANÇAMENTOS</name>
 <thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/S%C3%A9ries%20lan%C3%A7amentos.png</thumbnail>
-<fanart>https://wallpapers.com/images/high/movie-theater-background-1920-x-1080-vatsy4ql6shlquz4.webp</fanart>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
 <info>SÉRIES EM EXIBIÇÃO FICAM OS EPISÓDIOS QUE SÃO ADICIONADOS SEMANALMENTE ASSIM VOCÊ SEMPRE FICA ATUALIZANDO</info>
 <externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/lancamentos.xml</externallink>
 </channel>
@@ -12,7 +12,7 @@
 <channel>
 <name>SUGESTÕES</name>
 <thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/S%C3%A9ries%20Sugest%C3%B5es.png</thumbnail>
-<fanart>https://wallpapers.com/images/high/movie-theater-background-1920-x-1080-vatsy4ql6shlquz4.webp</fanart>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
 <info>AQUI VOCÊ PODE MARATONA AQUELA COLEÇÃO FAVORITA COM ALTA QUALIDADE E BEM ORGANIZADO PARA NÃO SE ATRAPALHAR, FIQUE À VONTADE PARA ENVIAR SUAS SUGESTÕES DE COLETÂNEA CASO NÃO ENCONTRE.</info>
 <externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/coletaneas.xml</externallink>
 </channel>
@@ -20,7 +20,7 @@
 <channel>
 <name>TÍTULOS</name>
 <thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/S%C3%A9ries%20T%C3%ADtulos.png</thumbnail>
-<fanart>https://wallpapers.com/images/high/movie-theater-background-1920-x-1080-vatsy4ql6shlquz4.webp</fanart>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
 <info>ESSA ABA É O LUGAR CERTO PARA VOCÊ LOCALIZAR SUAS SÉRIES, CASO NÃO ENCONTRE VOCÊ PODE ME ENVIAR SUA SUGESTÕES VEREMOS A POSSIBILIDADE DE SER ADICIONADO.</info>
 <externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/todos-padrao.xml</externallink>
 </channel>
