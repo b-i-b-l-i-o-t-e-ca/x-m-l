@@ -27,6 +27,13 @@
 </channel>
 
 <channel>
+<name>4K ULTRA HD</name>
+<thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/Ultra%20HD.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
+<info>ATENÇÃO PARA REPRODUZIR CONTEÚDO EM 4K SUA INTERNET PRECISA ESTAR ESTÁVEL E O DISPOSITIVO PRECISA SER COMPATÍVEL VOCÊ PRECISA TER NO MÍNIMO 50 MBPS NA HORA DA REPRODUÇÃO PARA RODAR SUAVEMENTE SEM TRAVAMENTO.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/4k-padrao.xml</externallink>
+</channel>
+<channel>
 <name>TÍTULOS</name>
 <thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/T%C3%ADtulos.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
