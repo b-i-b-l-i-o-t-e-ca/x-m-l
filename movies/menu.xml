@@ -27,19 +27,19 @@
 </channel>
 
 <channel>
-<name>TEGS</name>
-<thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/Tags.png</thumbnail>
-<fanart>https://wallpapers.com/images/high/movie-theater-background-1920-x-1080-vatsy4ql6shlquz4.webp</fanart>
-<info>AQUI VOCÊ PODE ENCONTRAR MELHORES LISTAS DE FILMES COMO FILMES DE LUTAS, NACIONAIS, CLÁSSICOS, E MUITO MAIS.</info>
-<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/playlists.xml</externallink>
-</channel>
-
-<channel>
 <name>TÍTULOS</name>
 <thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/T%C3%ADtulos.png</thumbnail>
 <fanart>https://wallpapers.com/images/high/movie-theater-background-1920-x-1080-vatsy4ql6shlquz4.webp</fanart>
 <info>AQUI É O LUGAR CERTO PARA VOCÊ PROCURAR SEUS FILMES,  AJUDAR NÓS EVOLUIR ENVIANDO SUAS SUGESTÕES DE FILMES</info>
 <externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/todos-padrao.xml</externallink>
+</channel>
+
+<channel>
+<name>TEGS</name>
+<thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/Tags.png</thumbnail>
+<fanart>https://wallpapers.com/images/high/movie-theater-background-1920-x-1080-vatsy4ql6shlquz4.webp</fanart>
+<info>AQUI VOCÊ PODE ENCONTRAR MELHORES LISTAS DE FILMES COMO FILMES DE LUTAS, NACIONAIS, CLÁSSICOS, E MUITO MAIS.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/playlists.xml</externallink>
 </channel>
   
 </channels>
