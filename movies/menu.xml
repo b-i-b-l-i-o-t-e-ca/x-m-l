@@ -5,7 +5,7 @@
 <channel>
 <name>LANÇAMENTOS</name>
 <thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/lan%C3%A7amentos.png</thumbnail>
-<fanart>https://wallpapers.com/images/high/movie-theater-background-1920-x-1080-vatsy4ql6shlquz4.webp</fanart>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
 <info>MELHORES LANÇAMENTOS DO ANO VOCÊ ENCONTRA AQUI COM ALTA QUALIDADE VOCÊ TAMBÉM PODE PROGRAMAR UM FILME QUE AINDA ESTÁ EM EXIBIÇÃO NO CINEMA PARA SE ADICIONADO MAIS RÁPIDO POSSÍVEL COM ALTA QUALIDADE</info>
 <externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/lan%C3%A7amentos.xml</externallink>
 </channel>
@@ -13,7 +13,7 @@
 <channel>
 <name>COLETÂNEAS</name>
 <thumbnail>https://github.com/anonimo2027/Biblioteca-oficial/blob/main/icon/Colet%C3%A2neas.png?raw=true</thumbnail>
-<fanart>https://wallpapers.com/images/high/movie-theater-background-1920-x-1080-vatsy4ql6shlquz4.webp</fanart>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
 <info>AQUI VOCÊ PODE MARATONA AQUELA COLEÇÃO FAVORITA COM ALTA QUALIDADE E BEM ORGANIZADO PARA NÃO SE ATRAPALHAR, FIQUE À VONTADE PARA ENVIAR SUAS SUGESTÕES DE COLETÂNEA CASO NÃO ENCONTRE.</info>
 <externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/coletaneas.xml</externallink>
 </channel>
@@ -21,7 +21,7 @@
 <channel>
 <name>SUGESTÕES</name>
 <thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/Sugest%C3%B5es.png</thumbnail>
-<fanart>https://wallpapers.com/images/high/movie-theater-background-1920-x-1080-vatsy4ql6shlquz4.webp</fanart>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
 <info>EM SUGESTÕES VOCÊ PODE ENCONTRAR FILMES QUE VOCÊ SOLICITOU OU FILMES QUE FORAM LANÇADOS NO FINAL DO ANO ANTERIOR MAIS QUE SAIU AGORA COM QUALIDADE 10/10</info>
 <externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/Sugestoes.xml</externallink>
 </channel>
@@ -29,7 +29,7 @@
 <channel>
 <name>TÍTULOS</name>
 <thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/T%C3%ADtulos.png</thumbnail>
-<fanart>https://wallpapers.com/images/high/movie-theater-background-1920-x-1080-vatsy4ql6shlquz4.webp</fanart>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
 <info>AQUI É O LUGAR CERTO PARA VOCÊ LOCALIZAR TODOS OS FILMES QUE ESTÁ DISPONÍVEL NO FLIXBOX</info>
 <externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/todos-padrao.xml</externallink>
 </channel>
@@ -37,7 +37,7 @@
 <channel>
 <name>TEGS</name>
 <thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/Tags.png</thumbnail>
-<fanart>https://wallpapers.com/images/high/movie-theater-background-1920-x-1080-vatsy4ql6shlquz4.webp</fanart>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
 <info>AQUI VOCÊ PODE ENCONTRAR MELHORES LISTAS DE FILMES COMO FILMES DE LUTAS, NACIONAIS, CLÁSSICOS, E MUITO MAIS.</info>
 <externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/playlists.xml</externallink>
 </channel>
