@@ -5,7 +5,7 @@
 <channel>
 <name>FILMES</name>
 <thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/Filmes2.png</thumbnail>
-<fanart>https://i.pinimg.com/1200x/66/bf/ea/66bfeaa804739e6172081c6e59c631cd.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
 <info>MELHORES FILMES COM QUALIDADE VOCÊ ENCONTRA AQUI NO FLIXBOX OFICIAL, CASO NÃO ENCONTRE SEUS FILMES FAVORITOS VOCÊ PODE ENVIAR SUAS SUGESTÕES E VEREMOS A POSSIBILIDADE DE SER ADICIONADO.
 
 SE ALGUM FILME ESTIVER COM TRAVAMENTO OU  NÃO CONSEGUIR REPRODUZIR VOCÊ PODE ME AVISAR QUE SERÁ CORRIGIDO MAIS RÁPIDO POSSÍVEL.</info>
@@ -15,7 +15,7 @@ SE ALGUM FILME ESTIVER COM TRAVAMENTO OU  NÃO CONSEGUIR REPRODUZIR VOCÊ PODE M
 <channel>
 <name>SÉRIES</name>
 <thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/S%C3%A9ries2.png</thumbnail>
-<fanart>https://i.pinimg.com/1200x/66/bf/ea/66bfeaa804739e6172081c6e59c631cd.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
 <info>AS SÉRIES SERÁ ADICIONADO DE ACORDO COM SUAS SUGESTÕES POIS AS SÉRIES DÁ MUITO MAIS TRABALHO DO QUE FILMES NÃO POSSO COLOCAR SÉRIES ALEATÓRIO, EM BREVE SERÁ POSSÍVEL.</info>
 <externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/menu.xml</externallink>
 </channel>
