@@ -210,6 +210,16 @@
 <!-- SERIES LETRA D INCIAL -->
 
 <channel>
+<name>Dexter: Ressurreição</name>
+<year>2025</year>
+<genre>Crime, Drama e Mistério</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/wG6GBTreXHoBhxsFY4vVSQtYey5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8J0SjKToFBbg8dKpocVOCsrC77C.jpg</fanart>
+<info>Dexter Morgan acorda do coma e vai para Nova Iorque, determinado a encontrar Harrison e consertar as coisas, mas quando Angel Batista da Miami Metro chega com perguntas, Dexter percebe que seu passado está mais próximo do que nunca.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/259909/01.xml</externallink>
+</channel>
+
+<channel>
 <name>Dragon Ball DAIMA</name>
 <year>2024</year>
 <genre>Animação, Action & Adventure, Comédia, Sci-Fi & Fantasy</genre>
