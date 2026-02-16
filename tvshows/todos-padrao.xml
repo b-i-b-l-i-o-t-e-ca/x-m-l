@@ -137,6 +137,16 @@
 <!-- SERIES LETRA C INCIAL -->
 
 <channel>
+<name>Chiquititas</name>
+<year>2013</year>
+<genre>Kids, Família e Soap</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/b23MVqShzKA6JcRYuFqTRc7MmRB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/s0nJVJA7EUmZ367GbUQXWIxJTno.jpg</fanart>
+<info>Fundado por um empresário com motivos misteriosos, o orfanato Raio de Luz é a casa de Mili e várias outras crianças que enfrentam juntas os desafios da vida.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/58566.xml</externallink>
+</channel>
+
+<channel>
 <name>Chapolin e Os Colorados</name>
 <year>2026</year>
 <genre>Animação e Comédia</genre>
