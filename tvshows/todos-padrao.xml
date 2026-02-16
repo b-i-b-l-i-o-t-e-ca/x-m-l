@@ -483,6 +483,16 @@
 <!-- SERIES LETRA O INCIAL -->
 
 <channel>
+<name>Os Mutantes: Caminhos do Coração</name>
+<year>2008</year>
+<genre>Soap, Drama e Sci-Fi & Fantasy</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/74Y6IWQpjbDnCvNwbQvCJfkJY2b.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sXa2bUCF5a0a0rz8R7d4ORSNY8C.jpg</fanart>
+<info>Em um mundo tomado por um surto macabro, povoado por humanos superpoderosos criados por um cientista louco, uma luta entre o bem e o mal é iniciada após uma profecia que pode levar ao fim de tudo.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/216699.xml</externallink>
+</channel>
+
+<channel>
 <name>Origem</name>
 <year>2022</year>
 <genre>Mistério, Drama, Sci-Fi & Fantasy</genre>
