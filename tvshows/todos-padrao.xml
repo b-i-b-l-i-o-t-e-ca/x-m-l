@@ -614,6 +614,16 @@
 <!-- SERIES LETRA T INCIAL -->
 
 <channel>
+<name>Três Graças</name>
+<year>2026</year>
+<genre>Soap e Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bsnzAWs9MITfYgsQ8jp1SQ3AyHI.jpg</fanart>
+<info>Lígia, Gerluce e Joélly — três mulheres de diferentes gerações da mesma família — cujas vidas são marcadas por um ponto em comum: todas enfrentaram uma gravidez na adolescência e foram abandonadas por seus respectivos companheiros.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/289996.xml</externallink>
+</channel>
+
+<channel>
 <name>Todo Mundo Odeia o Chris</name>
 <year>2005</year>
 <genre>Comédia</genre>
