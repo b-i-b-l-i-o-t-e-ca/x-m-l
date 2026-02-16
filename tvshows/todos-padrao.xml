@@ -3,6 +3,16 @@
 <!-- SERIES LETRA A INCIAL -->
 
 <channel>
+<name>Avenida Brasil</name>
+<year>2012</year>
+<genre>Soap, Drama, Mistério e Crime</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/p8uzK1Lngu9q9dpnn4SwPKIT1H7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5ssgDp28z1Nif6hR8OFrNQUspd4.jpg</fanart>
+<info>Rita é abandonada no lixão pela madrasta após seu pai morrer. Anos depois e sob nova identidade, a menina se infiltra na mansão da nova família de Carminha para se vingar dela.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/45815.xml</externallink>
+</channel>
+
+<channel>
 <name>Alien: Earth</name>
 <year>2025</year>
 <genre>Sci-Fi & Fantasy, Drama</genre>
