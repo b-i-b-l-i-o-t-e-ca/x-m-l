@@ -137,6 +137,16 @@
 <!-- SERIES LETRA C INCIAL -->
 
 <channel>
+<name>Cobras & Lagartos</name>
+<year>2006</year>
+<genre>Soap, Comédia e Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/2u5e0zlurzsyDhfb7ybhaS0cgly.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wCMTHbzRhyb3PaS5BxTK1fMUI8l.jpg</fanart>
+<info>Com pouco tempo de vida, Omar encontra em Duda o homem ideal para casar com a sobrinha Bel e herdar o império que construiu. Porém, quem acaba herdando o patrimônio é Foguinho.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/42995.xml</externallink>
+</channel>
+
+<channel>
 <name>Chiquititas</name>
 <year>2013</year>
 <genre>Kids, Família e Soap</genre>
