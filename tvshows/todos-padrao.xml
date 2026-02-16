@@ -549,6 +549,18 @@
 <!-- SERIES LETRA R INCIAL -->
 
 <channel>
+<name>Reis</name>
+<year>2022</year>
+<genre>Action & Adventure, Drama, Mistério e War & Politics</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/k9CF2PYdQ2u1WKVBweIeXI8ybay.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vZCVWvGNWCcO0SKO2l1Je6kIXpv.jpg</fanart>
+<info>Reis contará a história da nação de Israel, do momento em que o último juiz, o profeta Samuel, é usado por Deus para guiar o Seu povo, até a lamentável queda de Jerusalém, causada pelos exércitos da Babilônia.
+
+</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/51018.xml</externallink>
+</channel>
+
+<channel>
 <name>Robin Hood</name>
 <year>2025</year>
 <genre>Drama e Action & Adventure</genre>
