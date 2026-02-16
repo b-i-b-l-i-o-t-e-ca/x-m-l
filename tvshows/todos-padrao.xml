@@ -549,14 +549,22 @@
 <!-- SERIES LETRA R INCIAL -->
 
 <channel>
+<name>Renascer</name>
+<year>2024</year>
+<genre>Soap e Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/kUWvvMkNIf21UUDmHjYw55v6o7C.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bEKRyT7WN5TjFKv0JTWI2cyNlak.jpg</fanart>
+<info>Entre lendas e mistérios, um homem sem posses e sozinho no mundo finca seu destino aos pés de um jequitibá. Tendo a natureza como testemunha ele renasce e estabelece um pacto que o acompanhará ao longo de toda a sua trajetória.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/223365.xml</externallink>
+</channel>
+
+<channel>
 <name>Reis</name>
 <year>2022</year>
 <genre>Action & Adventure, Drama, Mistério e War & Politics</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/k9CF2PYdQ2u1WKVBweIeXI8ybay.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/vZCVWvGNWCcO0SKO2l1Je6kIXpv.jpg</fanart>
-<info>Reis contará a história da nação de Israel, do momento em que o último juiz, o profeta Samuel, é usado por Deus para guiar o Seu povo, até a lamentável queda de Jerusalém, causada pelos exércitos da Babilônia.
-
-</info>
+<info>Reis contará a história da nação de Israel, do momento em que o último juiz, o profeta Samuel, é usado por Deus para guiar o Seu povo, até a lamentável queda de Jerusalém, causada pelos exércitos da Babilônia.</info>
 <externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/51018.xml</externallink>
 </channel>
 
