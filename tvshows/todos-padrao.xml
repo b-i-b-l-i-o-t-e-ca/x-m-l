@@ -210,6 +210,16 @@
 <!-- SERIES LETRA D INCIAL -->
 
 <channel>
+<name>Dona Beja</name>
+<year>2026</year>
+<genre>Drama e Soap</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/eN3jw7AEOwNtTQTsGVHlEPvs6OC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lqjaaYhHobZcTyIORyq9zzVUtvB.jpg</fanart>
+<info>Depois que um ouvidor cruel muda o rumo do seu futuro, Beja transforma a dor em poder de sedução e desafia todas as convenções do Brasil imperial.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/152401.xml</externallink>
+</channel>
+
+<channel>
 <name>Dexter: Ressurreição</name>
 <year>2025</year>
 <genre>Crime, Drama e Mistério</genre>
