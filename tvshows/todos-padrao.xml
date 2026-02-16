@@ -559,6 +559,16 @@
 <!-- SERIES LETRA R INCIAL -->
 
 <channel>
+<name>O Rei do Gado</name>
+<year>1996</year>
+<genre>Soap, Drama e Família</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/gnRalif7ym8ovyDMr3glYVEq1tk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3qs50W6hMrjlpKaw3FWAUp6jfts.jpg</fanart>
+<info>A trama conta a saga de Bruno Mezenga e Luana Berdinazi, descendentes de duas famílias de imigrantes italianos rivais. Ao se envolverem, os dois redimem o ódio entre suas famílias.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/41731.xml</externallink>
+</channel>
+
+<channel>
 <name>Renascer</name>
 <year>2024</year>
 <genre>Soap e Drama</genre>
