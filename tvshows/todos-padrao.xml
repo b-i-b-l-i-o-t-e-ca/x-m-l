@@ -644,6 +644,17 @@
 <!-- SERIES LETRA T INCIAL -->
 
 <channel>
+<name>Terra e Paixão</name>
+<year>2023</year>
+<genre>Soap, Drama e Crime</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/voaKRrYExZNkf1E4FZExU7fTd8w.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8x3FjMAxAiG0LHyp6UQOHzbVAOj.jpg</fanart>
+<info>A saga de uma mulher, guiada pela força do amor e movida pelo desejo de justiça, se cruza com a de uma família dividida pela ambição e muitos segredos.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/209265.xml</externallink>
+</channel>
+
+
+<channel>
 <name>Três Graças</name>
 <year>2026</year>
 <genre>Soap e Drama</genre>
