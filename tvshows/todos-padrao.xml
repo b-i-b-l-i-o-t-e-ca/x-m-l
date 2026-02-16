@@ -709,6 +709,16 @@
 <!-- SERIES LETRA V INCIAL -->
 
 <channel>
+<name>Vale Tudo</name>
+<year>2025</year>
+<genre>Soap e Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/sK82sqOOjrzuxjFyWdgBWQTHYeu.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qX9epDSi7n4NGHx9To2HrNPNYty.jpg</fanart>
+<info>A história de uma mãe e uma filha com visões opostas sobre o caminho para se vencer na vida volta a conduzir o público a uma jornada atual sobre caráter, ética e honestidade.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/233519.xml</externallink>
+</channel>
+
+<channel>
 <name></name>
 <year></year>
 <genre></genre>
