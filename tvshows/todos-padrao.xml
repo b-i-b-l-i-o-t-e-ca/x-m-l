@@ -13,6 +13,16 @@
 </channel>
 
 <channel>
+<name>Amor à Vida</name>
+<year>2013</year>
+<genre>Soap, Drama e Família</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/h5iqaMTy4x9wgASIWe9kHB5VBdP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9vqqstyyhaO6b7Zc3VJgjzpWMJi.jpg</fanart>
+<info>Anos após ter sua filha roubada, Paloma fica frente a frente com o homem acusado do crime. A médica, porém, nem desconfia que o irmão, o invejoso Félix, é o verdadeiro culpado.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/59599.xml</externallink>
+</channel>
+
+<channel>
 <name>Alien: Earth</name>
 <year>2025</year>
 <genre>Sci-Fi & Fantasy, Drama</genre>
