@@ -435,13 +435,13 @@
 <!-- SERIES LETRA K INCIAL -->
 
 <channel>
-<name></name>
-<year></year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/99125/99125.xml</externallink>
+<name>Kubanacan</name>
+<year>2003</year>
+<genre>Soap, Comédia e Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/z1lzG8OkgHOTyrcFrNSp9gBkcUA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8ztxw1pO1UesrFOJTlEYx4sSBvU.jpg</fanart>
+<info>Kubanacan é uma ilha paradisíaca que sofre inúmeras reviravoltas com a chegada de Esteban, um homem ferido e sem memória.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/16616.xml</externallink>
 </channel>
 
 <!-- SERIES LETRA L INCIAL -->
