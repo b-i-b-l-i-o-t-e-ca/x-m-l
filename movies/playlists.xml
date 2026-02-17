@@ -5,7 +5,7 @@
 <name>FILMES | INFANTIS</name>
 <genre>Luta</genre>
 <thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/filmes-Infantil.png</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kPaxzVzOCmBVBu1otsSfgrC2bwF.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
 <info>EM BUSCA DE FILMES INFANTIS? SELECIONAMOS UMA LISTA REPLETA DE ÓTIMOS TÍTULOS DESSE GÊNERO CINEMATOGRÁFICO.</info>
 <externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/playlists/kids.xml</externallink>
 </channel>
@@ -14,7 +14,7 @@
 <name>FILMES | LUTA</name>
 <genre>Luta</genre>
 <thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/luta.png</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kPaxzVzOCmBVBu1otsSfgrC2bwF.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
 <info>CONFIRA A SEGUIR A SELEÇÃO DE MELHORES FILMES COM LUTAS INCRÍVEIS.</info>
 <externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/playlists/luta.xml</externallink>
 </channel>
