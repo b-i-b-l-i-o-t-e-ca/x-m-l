@@ -714,6 +714,17 @@
 <!-- SERIES LETRA T INCIAL -->
 
 <channel>
+<name>Teresa</name>
+<year>2010</year>
+<genre>Soap e Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/5U8eEPG2ESPOsjDB0J9aXMelctc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/i5WyNy4tVmRbcOvTfYXWuEpTNK7.jpg</fanart>
+<info>Teresa Chavez é uma jovem ambiciosa obcecada por dinheiro. Apesar de ser muito bonita e de ter crescido em uma família amorosa, ela está sempre amargurada e só pensa em deixar o bairro pobre onde vive.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/12926.xml</externallink>
+</channel>
+
+
+<channel>
 <name>Terra e Paixão</name>
 <year>2023</year>
 <genre>Soap, Drama e Crime</genre>
