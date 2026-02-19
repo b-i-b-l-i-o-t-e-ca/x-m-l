@@ -292,6 +292,16 @@
 <!-- SERIES LETRA E INCIAL -->
 
 <channel>
+<name>Espíritos na Escola</name>
+<year>2023</year>
+<genre>Mistério e Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/y3mmy2IJvLu7InRlXqGtraIB19y.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rwlV11hoVMfMDMFEZk4000zNfBI.jpg</fanart>
+<info>Uma adolescente presa na vida após a morte decide investigar seu desaparecimento com um grupo de outros alunos que também estão presos no limbo em sua escola.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/208397/208397.xml</externallink>
+</channel>
+
+<channel>
 <name>Demolidor</name>
 <year>2025</year>
 <genre>Crime, Drama, Action & Adventure</genre>
