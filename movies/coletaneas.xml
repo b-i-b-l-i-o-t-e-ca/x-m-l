@@ -381,13 +381,13 @@
 </channel>
 
 <channel>
-<name></name>
+<name>Invasão Zumbi</name>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<externallink></externallink>
+<genre>Adventure, Horror, Action e Thriller</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/zzINsKDOWa8XXL7cPvSBID9FUL7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6Gt3NvpelUyox2oH0Dh31KuL9dG.jpg</fanart>
+<info>Série de filmes do diretor Yeon Sang-ho para Busan</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/coletaneas/619537.xml</externallink>
 </channel>
 
 <channel>
