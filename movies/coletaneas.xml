@@ -411,13 +411,13 @@
 </channel>
 
 <channel>
-<name></name>
+<name>Premonição</name>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<externallink></externallink>
+<genre>Horror e Mystery</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/mu8JSWvoxAj80gLBpBuXVi4bsa0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/y3aWOInifbGKXM34KjtcMITrZRZ.jpg</fanart>
+<info>Premonição é uma série de filmes de terror centrados nos temas fatalismo, predestinação e precognição, em relação à morte.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/coletaneas/8864.xml</externallink>
 </channel>
 
 <channel>
