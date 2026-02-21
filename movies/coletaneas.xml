@@ -371,13 +371,13 @@
 </channel>
 
 <channel>
-<name></name>
+<name>Invocação do Mal</name>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<externallink></externallink>
+<genre>Horror, Thriller e Mystery</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/cE9XgHWwYaX5KysU7NS43LtFqxw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kHZaX0vuhZdbuq0WKU3BpA9WIQ0.jpg</fanart>
+<info>Invocação do Mal é uma coletânea com dois de filmes de horror, estrelada por Vera Farmiga e Patrick Wilson, no papel dos investigadores paranormais Lorraine e Ed Warren. Esta franquia é de grande sucesso, com vários personagens marcantes que chegaram até a ter seus próprios filmes. Estas histórias são a base para criação de universo fantástico do paranormal.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/coletaneas/313086.xml</externallink>
 </channel>
 
 <channel>
