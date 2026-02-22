@@ -451,13 +451,13 @@
 </channel>
 
 <channel>
-<name></name>
+<name>Jogos Mortais</name>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<externallink></externallink>
+<genre>Horror, Thriller, Crime e Mystery</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/9ADSHtuBTRL3P0pUmZJGnQtwmSH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/q6XF2qbrxdv3OwZPnXgecDRft1O.jpg</fanart>
+<info>Jigsaw é um assassino que possui uma marca registrada: ele deixa em suas vítimas uma cicatriz em forma de quebra-cabeças, que faz com que elas cometam atos igonizantes para se salvar. O detetive David Tapp (Danny Glover) é designado para investigar os assassinatos, bem como a capturar seu autor. Porém o caminho evasivo seguido por Jigsaw leva o detetive a desenvolver uma obsessão por capturá-lo. A coletânea é composta de sete filmes, Jogos Mortais I, Jogos Mortais II, Jogos Mortais III, Jogos Mortais IV, Jogos Mortais V, Jogos Mortais VI e Jogos Mortais VII: O Final, lançados sequencialmente nos anos 2004 a 2010.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/coletaneas/656.xml</externallink>
 </channel>
 
 <channel>
