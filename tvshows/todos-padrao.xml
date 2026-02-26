@@ -712,6 +712,16 @@
 <!-- SERIES LETRA S INCIAL -->
 
 <channel>
+<name>Super Choque</name>
+<year>2000</year>
+<genre>Action & Adventure, Animação, Sci-Fi & Fantasy e Kids</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/CAzxjYTUQoq2jeUnn0z6BugdIP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qgrE0RHZ6QRH2KS0jUDpw1csFGM.jpg</fanart>
+<info>Virgil é um jovem esperto, inteligente, atlético, vivaz e muito bem-humorado. Ele foi exposto acidentalmente a um gás desconhecido. Ele ganhou superpoderes eletrostáticos, e os usou para tornar-se um super-herói chamado Super Choque.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/1487/1487.xml</externallink>
+</channel>
+
+<channel>
 <name>Spartacus: House of Ashur</name>
 <year>2025</year>
 <genre>Drama, Action & Adventure</genre>
