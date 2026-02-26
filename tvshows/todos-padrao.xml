@@ -543,6 +543,16 @@
 <!-- SERIES LETRA O INCIAL -->
 
 <channel>
+<name>ONE PIECE: A Série</name>
+<year>2023</year>
+<genre>Action & Adventure e Sci-Fi & Fantasy</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/aesLt9fsKSA6KCgGxA60VVxjtLk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qD211Hb5XwFxrszzBBe5EUYJerh.jpg</fanart>
+<info>O jovem pirata Monkey D. Luffy veste o chapéu de palha e, com sua tripulação atrapalhada, zarpa em uma jornada épica nesta adaptação em live-action do popular mangá.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/111110/01.xml</externallink>
+</channel>
+
+<channel>
 <name>Os Mutantes: Caminhos do Coração</name>
 <year>2008</year>
 <genre>Soap, Drama e Sci-Fi & Fantasy</genre>
