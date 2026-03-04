@@ -3,7 +3,7 @@
 
 <channel>
 <name>FILMES | NACIONAIS</name>
-<genre>Luta</genre>
+<genre></genre>
 <thumbnail>https://github.com/anonimo2027/Biblioteca-oficial/blob/main/icon/Filmes-Nacionais.png?raw=true</thumbnail>
 <fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
 <info>BONS FILMES NACIONAIS, ALGUNS MAIS CONHECIDOS, OUTROS MENOS, ALGUNS BONS, OUTROS NEM TANTO, PORÉM TODOS BOAS EXPERIÊNCIAS CINEMATOGRÁFICAS DO CENÁRIO NACIONAL.
@@ -14,7 +14,7 @@ VALE A PENA CONHECER NOSSOS FILMES!</info>
 
 <channel>
 <name>FILMES | INFANTIS</name>
-<genre>Luta</genre>
+<genre></genre>
 <thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/filmes-Infantil.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
 <info>EM BUSCA DE FILMES INFANTIS? SELECIONAMOS UMA LISTA REPLETA DE ÓTIMOS TÍTULOS DESSE GÊNERO CINEMATOGRÁFICO.</info>
@@ -23,7 +23,7 @@ VALE A PENA CONHECER NOSSOS FILMES!</info>
 
 <channel>
 <name>FILMES | CLÁSSICOS</name>
-<genre>Luta</genre>
+<genre></genre>
 <thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/filme-Cl%C3%A1ssicos.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
 <info>As produções que fizeram a alegria de quem, assim como eu, foi adolescente famosa ''SESSÃO DA TARDE'' (que atualmente está ameaçada de ''extinção'') é exibida pela Rede Globo desde 05 de março de 1974 ou seja, a 40 anos. ''Sessão da Tarde é um programa de televisão brasileiro, uma sessão de filmes exibida pela Rede Globo de segunda a sexta-feira após o Vídeo Show. É exibido nas tardes da emissora desde o dia 5 de março de 1974 , sendo uma das sessões de filmes mais duradouras e conhecidas da televisão brasileira.</info>
@@ -41,7 +41,7 @@ VALE A PENA CONHECER NOSSOS FILMES!</info>
 
 <channel>
 <name>FILMES | LUTA</name>
-<genre>Luta</genre>
+<genre></genre>
 <thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/luta.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
 <info>CONFIRA A SEGUIR A SELEÇÃO DE MELHORES FILMES COM LUTAS INCRÍVEIS.</info>
