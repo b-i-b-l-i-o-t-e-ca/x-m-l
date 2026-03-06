@@ -489,6 +489,16 @@
 <!-- SERIES LETRA M INCIAL -->
 
 <channel>
+<name>Mantendo a Esperança</name>
+<year>2012</year>
+<genre>Sci-Fi & Fantasy e Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/jzowbz0RyejhhFMnSiUufWet7bm.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2fzV1ptJCbZ4xvJZrOofmjeeS5X.jpg</fanart>
+<info>Quando o chefe de cirurgia do Hope Zion Hospital entra em coma, ele se vê vagando pelos corredores em forma de espírito. Preso entre dois mundos, ele observa sua noiva e a equipe do hospital lutarem para manter os pacientes – e a esperança – vivos.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/43097/43097.xml</externallink>
+</channel>
+
+<channel>
 <name>Man Vs Baby</name>
 <year>2025</year>
 <genre>Comédia, Família</genre>
