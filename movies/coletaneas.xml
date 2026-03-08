@@ -511,13 +511,13 @@
 </channel>
 
 <channel>
-<name></name>
+<name>Pânico Na Floresta</name>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<externallink></externallink>
+<genre>Horror e Thriller</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/6jhokusc6zbU0LaMqnUeOJwdKco.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/32IsLLCoj3mIkZbLfCKSXZVqd3k.jpg</fanart>
+<info>Um grupo de pessoas lutando por sua sobrevivência contra uma família de canibais consternados deformados, que planejam destruí-los implacavelmente a todos.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/coletaneas/52985.xml</externallink>
 </channel>
 
 <channel>
