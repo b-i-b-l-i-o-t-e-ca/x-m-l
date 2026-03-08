@@ -561,13 +561,13 @@
 </channel>
 
 <channel>
-<name></name>
+<name>Halloween</name>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<externallink></externallink>
+<genre>Horror, Thriller, Science Fiction e Mystery</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/2uqHV6YcD9jEL2WuJYjXiiuRDqd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vMkkrGHPr25pTJORALhBAww67iF.jpg</fanart>
+<info>Halloween é uma série de filmes de terror que consiste em filmes de estripador focados no personagem fictício de Michael Myers. As mortes de Michael ocorrem no feriado de Halloween, no qual todos os filmes ocorrem principalmente.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/coletaneas/91361.xml</externallink>
 </channel>
 
 <channel>
