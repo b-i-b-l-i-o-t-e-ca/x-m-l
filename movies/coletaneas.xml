@@ -571,13 +571,13 @@
 </channel>
 
 <channel>
-<name></name>
+<name>Os Estranhos</name>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<externallink></externallink>
+<genre>Horror e Thriller</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/q4fqjcz2oznw9sVZKtt2VS9RItc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1IihKmAv26AkN9jVmzx3JPsd9BU.jpg</fanart>
+<info>A trilogia Os Estranhos é uma reinicialização do filme de terror psicológico de 2008 com o mesmo nome. Um jovem casal é implacavelmente aterrorizado por três estranhos mascarados depois que seu carro quebra em uma pequena cidade. A luta inicial pela sobrevivência se transforma em uma jornada sombria de trauma e vingança, à medida que um deles é forçado a confrontar os assassinos diretamente, explorando, em última análise, temas de violência sem sentido.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/coletaneas/1172926.xml</externallink>
 </channel>
 
 <channel>
