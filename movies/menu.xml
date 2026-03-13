@@ -36,10 +36,10 @@
 
 <channel>
 <name>TRAILERS</name>
-<thumbnail>https://github.com/anonimo2027/Biblioteca-oficial/blob/main/icon/Colet%C3%A2neas.png?raw=true</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/Trailers.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/fan.jpg</fanart>
 <info>ASSISTA A NOVOS TRAILERS DE FILMES E SÉRIES</info>
-<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/coletaneas.xml</externallink>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/trailers.xml</externallink>
 </channel>
 
 <channel>
