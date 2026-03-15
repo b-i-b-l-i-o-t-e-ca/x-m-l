@@ -581,13 +581,13 @@
 </channel>
 
 <channel>
-<name></name>
+<name>Kung Fu Panda</name>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<externallink></externallink>
+<genre>Adventure, Fantasy, Animation, Action, Comedy e Family</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/2niOAGSPxhdcRfbcXGDg4doNp9z.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2nbtv33hEk2CTnuMhTGZgsFdi3K.jpg</fanart>
+<info>A série Kung Fu Panda são filmes de comédia de ação animados por computador ambientados em uma versão da China habitada por animais humanóides falantes. O enredo gira em torno de um panda humanóide desajeitado chamado Po, que aspira ser um mestre de Kung Fu.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/movies/coletaneas/77816.xml</externallink>
 </channel>
 
 <channel>
