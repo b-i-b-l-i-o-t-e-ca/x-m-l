@@ -2,6 +2,16 @@
 <channels>
 
 <channel>
+<name>Garota de Fora: Recomeço</name>
+<year>2026</year>
+<genre>Drama e Mistério</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/8qDVPYqADxkCbyrcf9EwP52bABl.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pJert4hRVNzagvtFr3vTYnpgBMH.jpg</fanart>
+<info>Em um novo universo, a misteriosa Nanno finge ser uma aluna nova para expor a crueldade, virando o poder, a culpa e o desejo contra quem abusa de tudo isso.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/310935.xml</externallink>
+</channel>
+
+<channel>
 <name>A Nobreza do Amor</name>
 <year>2026</year>
 <genre>Drama, Sci-Fi & Fantasy e Soap</genre>
