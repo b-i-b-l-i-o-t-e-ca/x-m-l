@@ -2,6 +2,16 @@
 <channels>
 
 <channel>
+<name>A Nobreza do Amor</name>
+<year>2026</year>
+<genre>Drama, Sci-Fi & Fantasy e Soap</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/fdrirlMBVi3rtZ2CQyE9R18vuLB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wJybYZUCFj1xUQOjXLyxfVFNKlb.jpg</fanart>
+<info>Ambientada nos anos 1920, uma princesa africana deposta por uma convulsão política em seu reino. Ela foge para o interior de Pernambuco, no Brasil, onde vive um romance proibido com um trabalhador rural. A trama, que tem início na África e se desenvolve no Nordeste brasileiro, mistura fábula, melodrama e crítica social, buscando dar visibilidade à cultura e à representatividade negra, com um elenco diverso e uma protagonista forte que luta pela retomada de seu trono e pela libertação de seu povo.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/301557.xml</externallink>
+</channel>
+
+<channel>
 <name>ONE PIECE: A Série</name>
 <year>2023</year>
 <genre>Action & Adventure e Sci-Fi & Fantasy</genre>
