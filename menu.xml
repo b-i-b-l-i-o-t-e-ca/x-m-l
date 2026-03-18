@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
+<channel>
+<name>TV AO VIVO</name>
+<thumbnail>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/iptv.png</thumbnail>
+<fanart>https://i.pinimg.com/1200x/23/30/d3/2330d3a940e74014e1b331ec4228fba4.jpg</fanart>
+<info>ATENÇÃO: ESSA OPÇÃO ESTÁ EM DESENVOLVIMENTO NO MOMENTO, PODE TER FALHA NA REPRODUÇÃO OU LENTIDÃO</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/iptv.xml</externallink>
+</channel>
+
 
 <channel>
 <name>FILMES</name>
