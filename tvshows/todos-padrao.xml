@@ -509,6 +509,16 @@
 <!-- SERIES LETRA M INCIAL -->
 
 <channel>
+<name>Monarch - Legado de Monstros</name>
+<year>2023</year>
+<genre>Sci-Fi & Fantasy, Drama e Action & Adventure</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/reJ0kHd3DIp2bHQZAmLiqoTPnfw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/n5FGEUmId87nZAdFiOFmCKXynmT.jpg</fanart>
+<info>Após sobreviver ao ataque do Godzilla em São Francisco, Cate é abalada novamente por um segredo chocante. Em meio a ameaças monstruosas, ela embarca em uma aventura pelo mundo para descobrir a verdade sobre sua família—e a organização misteriosa conhecida como Monarch.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/202411/202411.xml</externallink>
+</channel>
+
+<channel>
 <name>Mantendo a Esperança</name>
 <year>2012</year>
 <genre>Sci-Fi & Fantasy e Drama</genre>
