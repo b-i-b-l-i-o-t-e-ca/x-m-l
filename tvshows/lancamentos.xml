@@ -32,6 +32,16 @@
 </channel>
 
 <channel>
+<name>Os Dinossauros</name>
+<year>2026</year>
+<genre>Documentário</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/wdpc2htHKoUX42rQNCmlRQ1dMGn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8X2R9uLys3SmkRuQAmSI96xxJAF.jpg</fanart>
+<info>Dos primeiros aos últimos dinossauros, esta série documental fascinante explora seu reinado de 165 milhões de anos na Terra e as forças que moldaram essa evolução.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/313298.xml</externallink>
+</channel>
+
+<channel>
 <name>Sandokan</name>
 <year>2025</year>
 <genre>Action & Adventure, Drama e War & Politics</genre>
