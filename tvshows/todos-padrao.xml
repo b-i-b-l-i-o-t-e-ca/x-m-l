@@ -762,6 +762,16 @@
 <!-- SERIES LETRA S INCIAL -->
 
 <channel>
+<name>Star Trek: Academia da Frota Estelar</name>
+<year>2026</year>
+<genre>Sci-Fi & Fantasy e Action & Adventure</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/njeQYZzEAP4vwoKqxnLBi63WPkI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rXtSdCGmG07zjAg5h7GR1v52ogX.jpg</fanart>
+<info>Um grupo de cadetes se une para perseguir o sonho de esperança e otimismo. Sob o olhar atento de seus instrutores, descobrem o que é preciso para se tornarem oficiais da Frota Estelar.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/223530/01.xml</externallink>
+</channel>
+
+<channel>
 <name>Super Choque</name>
 <year>2000</year>
 <genre>Action & Adventure, Animação, Sci-Fi & Fantasy e Kids</genre>
