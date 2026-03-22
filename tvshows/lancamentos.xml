@@ -32,6 +32,16 @@
 </channel>
 
 <channel>
+<name>Sandokan</name>
+<year>2025</year>
+<genre>Action & Adventure, Drama e War & Politics</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/6P5WCgqB4D5jL8FDx0ZlNyUu5X5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uLWjc4c9k2pXoSmvZ5RdFIMYvdq.jpg</fanart>
+<info>Sandokan é um pirata malaio que, junto com seu amigo Yanez e sua tripulação, ataca as forças britânicas em sua ilha de Mompracem. Durante suas aventuras, ele se apaixona por Lady Marianna Guillonk, uma aristocrata inglês-italiana.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/271855/01.xml</externallink>
+</channel>
+
+<channel>
 <name>Emergência Radioativa</name>
 <year>2026</year>
 <genre>Drama, Mistério e Action & Adventure</genre>
