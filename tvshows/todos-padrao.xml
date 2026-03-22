@@ -463,13 +463,13 @@
 <!-- SERIES LETRA J INCIAL -->
 
 <channel>
-<name></name>
-<year></year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/99125/99125.xml</externallink>
+<name>Jovem Sherlock</name>
+<year>2026</year>
+<genre>Action & Adventure e Mistério</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/bwqY58EnQNoIfDqWoITWBzcdguN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8mmDLb108DoFZlE8sfc64TRqLvm.jpg</fanart>
+<info>Nesse mistério repleto de ação, testemunhe a história de origem de Sherlock Holmes em uma releitura irreverente dos primórdios do icônico personagem.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/255661/01.xml</externallink>
 </channel>
 
 <channel>
