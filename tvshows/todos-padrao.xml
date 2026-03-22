@@ -784,6 +784,16 @@
 <!-- SERIES LETRA T INCIAL -->
 
 <channel>
+<name>Terra Indomável </name>
+<year>2025</year>
+<genre>Faroeste, Drama e Action & Adventure</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/4uHGMf2ifvcNLI3LouDuO41E1Dq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nya4KOcPSX5sGkLkoBtTST37u1Y.jpg</fanart>
+<info>Fugindo do passado, mãe e filho formam uma nova família em meio à crueldade e à luta pela liberdade no oeste dos Estados Unidos.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/215866.xml</externallink>
+</channel>
+
+<channel>
 <name>Teresa</name>
 <year>2010</year>
 <genre>Soap e Drama</genre>
