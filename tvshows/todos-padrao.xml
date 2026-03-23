@@ -773,6 +773,16 @@
 <!-- SERIES LETRA S INCIAL -->
 
 <channel>
+<name>Stranger Things</name>
+<year>2016</year>
+<genre>Sci-Fi & Fantasy, Mistério e Action & Adventure</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/iNJ8bGfixHDaZG7UlF80Hydk9r1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg</fanart>
+<info>Quando um garoto desaparece, a cidade toda participa nas buscas. Mas o que encontram são segredos, forças sobrenaturais e uma menina.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/66732/66732.xml</externallink>
+</channel>
+
+<channel>
 <name>Sandokan</name>
 <year>2025</year>
 <genre>Action & Adventure, Drama e War & Politics</genre>
