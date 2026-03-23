@@ -666,13 +666,13 @@
 </channel>
 
 <channel>
-<name></name>
-<year></year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/99125/99125.xml</externallink>
+<name>Paraíso</name>
+<year>2025</year>
+<genre>Crime e Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/z5nLcRgjNWTjKprbrNTSWiz7K7W.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5QsLvWh8J1mXl1W05wNJknMmhzR.jpg</fanart>
+<info>Se passa em uma comunidade idílica habitada por alguns dos indivíduos mais proeminentes do mundo. Mas um assassinato chocante acaba com essa tranquilidade, desencadeando uma investigação de alto risco.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/245927/245927.xml</externallink>
 </channel>
 
 <channel>
