@@ -594,6 +594,16 @@
 <!-- SERIES LETRA O INCIAL -->
 
 <channel>
+<name>Os Donos do Jogo</name>
+<year>2025</year>
+<genre>Crime e Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/jwPI58JAidRzzbUI0j8uUu2rsyy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1b2OYNA3Ikq9BBwk6If8As89bge.jpg</fanart>
+<info>Um novato ambiciona liderar o submundo do jogo do bicho no Rio de Janeiro e acaba se envolvendo em uma perigosa rede de traições, luxúria e sangue.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/282440/01.xml</externallink>
+</channel>
+
+<channel>
 <name>Os Dinossauros</name>
 <year>2026</year>
 <genre>Documentário</genre>
