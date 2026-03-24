@@ -783,6 +783,26 @@
 <!-- SERIES LETRA S INCIAL -->
 
 <channel>
+<name>Solar Opposites</name>
+<year>2020</year>
+<genre>Comédia, Animação e Sci-Fi & Fantasy</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/nuBD4dlO7gfg4RhW0sS0pTeiYRc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7HvZWyNbo1pu91Zt5vUVbOMaPt9.jpg</fanart>
+<info>Korvo, Terry e seus filhos Yumyulack e Jesse são uma família de alienígenas, originalmente do planeta Shlorp. Eles acabam caindo no planeta Terra e tentam se esconder no meio dos Estados Unidos. Eles ainda não decidiram se isso é algo incrível ou terrível.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/97645/97645.xml</externallink>
+</channel>
+
+<channel>
+<name>Sintonia</name>
+<year>2029</year>
+<genre>Drama e Crime</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/sTTxrKX9DzB5K6wdsfCs5bQ0r6r.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9GTFaWPPctyJeJaImg9HVPPbyOf.jpg</fanart>
+<info>Criados juntos na quebrada de São Paulo, três jovens amigos correm atrás de seus sonhos rodeados por música, drogas e religião.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/78074/78074.xml</externallink>
+</channel>
+
+<channel>
 <name>Stranger Things</name>
 <year>2016</year>
 <genre>Sci-Fi & Fantasy, Mistério e Action & Adventure</genre>
