@@ -3,6 +3,16 @@
 <!-- SERIES LETRA A INCIAL -->
 
 <channel>
+<name>A Feia Mais Bela</name>
+<year>2006</year>
+<genre>Soap, Comédia e Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/2jI4b5eHHZ9dZ2kb0ULDKUiAhze.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cvHNEZqPguUT97MjwNpsRbtRTDp.jpg</fanart>
+<info>Lety é uma garota tímida, romântica e muito inteligente, mas feia. Em todas as empresas, uma vaga de emprego é negada devido a seu físico. Por conta disso, aceita trabalhar como secretária da produtora Conceitos, a mais famosa do país.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/11721.xml</externallink>
+</channel>
+
+<channel>
 <name>A Magia das Sereias</name>
 <year>2024</year>
 <genre>Animação, Kids, Action & Adventure, Comédia, Família e Sci-Fi & Fantasy</genre>
@@ -365,13 +375,13 @@
 <!-- SERIES LETRA F INCIAL -->
 
 <channel>
-<name>A Feia Mais Bela</name>
-<year>2006</year>
-<genre>Soap, Comédia e Drama</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/2jI4b5eHHZ9dZ2kb0ULDKUiAhze.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/cvHNEZqPguUT97MjwNpsRbtRTDp.jpg</fanart>
-<info>Lety é uma garota tímida, romântica e muito inteligente, mas feia. Em todas as empresas, uma vaga de emprego é negada devido a seu físico. Por conta disso, aceita trabalhar como secretária da produtora Conceitos, a mais famosa do país.</info>
-<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/11721.xml</externallink>
+<name>Família Dinossauros</name>
+<year>1991</year>
+<genre>Sci-Fi & Fantasy, Comédia e Família</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/tmho9KQniTBvsPfJMn60CJQ3akM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tZbn2HAty7B4euNbFqHPlfoYXXI.jpg</fanart>
+<info>Dinosaurs (Família Dinossauros no Brasil e Os Dinossauros em Portugal), é uma série de televisão americana. Apesar de ser concebida como um programa infantil, faz uma crítica bem humorada ao chamado "american way of life" e uma sátira da sociedade e dos costumes da classe média desse país. Produzida pela Disney em parceria com a Jim Henson Productions - a qual concebeu os bonecos que representam os personagens - e a Michael Jacobs Productions, entre os anos de 1991 e 1994... No Brasil, a série teve a sua primeira exibição pela Rede Globo em 1992, em seguida pelo SBT, e anos mais tarde foi exibido pela Rede Bandeirantes e mais reestreou no Canal Viva.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/3763/3763.xml</externallink>
 </channel>
 
 <channel>
