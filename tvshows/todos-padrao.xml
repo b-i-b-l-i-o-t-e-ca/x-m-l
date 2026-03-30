@@ -115,6 +115,16 @@
 <!-- SERIES LETRA B INCIAL -->
 
 <channel>
+<name>Blue Exorcist</name>
+<year>2011</year>
+<genre>Animação, Sci-Fi & Fantasy, Mistério e Action & Adventure</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/kpNoqNmElzGUEcEoZyfFwvYXMsR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4zFMgFEVaqYZLscCeyB8yTfxfre.jpg</fanart>
+<info>Determinado a se livrar da maldição de ser filho ilegítimo de Satã, Rin segue os passos de seu mentor e se alista na Academia Vera Cruz para se tornar exorcista.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/38464/38464.xml</externallink>
+</channel>
+
+<channel>
 <name>Batman: Cruzado Encapuzado</name>
 <year>2024</year>
 <genre>Animação, Crime, Action & Adventure</genre>
