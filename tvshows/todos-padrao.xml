@@ -187,6 +187,16 @@
 <!-- SERIES LETRA C INCIAL -->
 
 <channel>
+<name>Clevatess</name>
+<year>2025</year>
+<genre>Animação, Action & Adventure e Sci-Fi & Fantasy</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/7sWrMBhOS1x4RUCr3o2I4ld13fq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5nmg2cEZxA09VyDvioAuqd5jOW0.jpg</fanart>
+<info>A história acompanha o protagonista Rei Demônio, que está sendo caçado por 13 heróis, incluindo Alicia, que sonha em ser uma heroína desde criança... Depois de tentar assassinar o Rei Demônio, os heróis causam mais problemas para as raças humanas, encontrando apenas uma maneira de salvar a humanidade: confiar um único bebê ao Rei Demônio Clevatess.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/258348/01.xml</externallink>
+</channel>
+
+<channel>
 <name>Casa de Davi</name>
 <year>2025</year>
 <genre>Drama</genre>
