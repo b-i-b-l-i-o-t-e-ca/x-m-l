@@ -392,7 +392,17 @@
 <externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/2692/2692.xml</externallink>
 </channel>
 
-<!-- SERIES LETRA F INCIAL -->
+<!-- SERIES LETRA F INCIAL -->[
+
+<channel>
+<name>Frieren e a Jornada para o Além</name>
+<year>2023</year>
+<genre>Animação, Action & Adventure, Drama e Sci-Fi & Fantasy</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/d9IuDqPWoUYukwblQhqV00jlCzZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qpSH1NrXj7WSaEw4hiRa6l3xoAl.jpg</fanart>
+<info>Após uma missão de 10 anos ao lado do herói Himmel e seu grupo, a poderosa maga Frieren derrotou o Rei Demônio e trouxe paz ao reino. Como uma elfa, Frieren tem uma vida de mais de mil anos pela frente. Ela promete retornar para seus amigos e, assim, parte em uma jornada solitária. 50 anos se passam quando Frieren finalmente volta para visitar Himmel e os outros. Embora ela não tenha envelhecido nada, seus amigos têm pouco tempo de vida restante. É então que Frieren testemunha a morte de Himmel, o que a leva a lamentar não ter passado mais tempo junto dele. Com esse arrependimento em seu coração, ela embarca em uma nova jornada com o objetivo de se conectar e conhecer melhor as pessoas. Ao longo dessa viagem, a elfa Frieren encontrará diversas pessoas e viverá incontáveis aventuras emocionantes!</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/209867/01.xml</externallink>
+</channel>
 
 <channel>
 <name>Família Dinossauros</name>
@@ -425,6 +435,16 @@
 </channel>
 
 <!-- SERIES LETRA G INCIAL -->
+
+<channel>
+<name>Gachiakuta</name>
+<year>2025</year>
+<genre>Animação, Action & Adventure, Drama e Sci-Fi & Fantasy</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/jH78nLFrTU6aP7hY7KO6DZHFLoX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mrapJp0qb6Fvo3IW9IrjCK9IgSo.jpg</fanart>
+<info>Em uma cidade flutuante onde os ricos descartam seu lixo (e pessoas), Rudo é acusado falsamente de homicídio e jogado no Abismo, um lugar infernal onde vivem monstros de lixo mutantes. Para sobreviver, ele precisa conquistar um novo poder e se unir aos errantes Zeladores. Rudo não quer apenas lutar com os monstros, mas também contra os corruptos que o jogaram no Inferno.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/256721/256721.xml</externallink>
+</channel>
 
 <channel>
 <name>Garota de Fora: Recomeço</name>
@@ -622,6 +642,26 @@
 <!-- SERIES LETRA N INCIAL -->
 
 <channel>
+<name>Ninja vs. Gokudo</name>
+<year>2025</year>
+<genre>Animação e Action & Adventure</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/37eik5Xi5xMjAzfkDaTO3Nc9nIT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pxxRP1PZ4FYOIpCGYow6Ea7RubQ.jpg</fanart>
+<info>Os ninjas expulsam o mal das sombras. Os gokudo reúnem marginais dispersos e cometem crimes. O ressentimento forjado há séculos se reacende hoje. O ninja Shinoha encontra Kiwami, um gokudo com aparência de homem de negócios. Sem saber da identidade um do outro, eles fazem amizade regada a anime, mas a guerra entre ninjas e gokudo se acirra. Quem vai sobreviver e quem vai sucumbir? Ninja ou gokudo?</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/285070/285070.xml</externallink>
+</channel>
+
+<channel>
+<name>Naruto Shippuden</name>
+<year>2007</year>
+<genre>Animação, Action & Adventure e Sci-Fi & Fantasy</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/nRJmByfK9XdtOY73VArcN8KpKVs.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fLZgeYlrhkN7klayFTocllAPm9Y.jpg</fanart>
+<info>Naruto Shippuden ocorre 2 anos e meio após Naruto ter deixado a vila para treinar com Jiraiya. Após seu retorno, Naruto descobre que seus amigos shinobi's o superaram na classificação, e ele caiu para trás. No entanto, com apenas 6 meses para resgatar Sasuke, Naruto tem de enfrentar inimigos ainda mais perigosos. O plano da Akatsuki se revela lentamente e os perigos surgem mais do que nunca!</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/31910/31910.xml</externallink>
+</channel>
+
+<channel>
 <name>NCIS: Tony & Ziva</name>
 <year>2025</year>
 <genre>Action & Adventure, Drama e Crime</genre>
@@ -642,6 +682,26 @@
 </channel>
 
 <!-- SERIES LETRA O INCIAL -->
+
+<channel>
+<name>One-Punch Man</name>
+<year>2015</year>
+<genre>Animação, Comédia, Action & Adventure e Sci-Fi & Fantasy</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/3yvPziuLr2lT6DGP3M0jO7yjBVt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bc1q9shqng58tykf3kmwukzez6h5xne559f5gfu2l8.jpg</fanart>
+<info>O super-herói mais forte do mundo pode matar qualquer um com um só golpe. Mas, com uma vida sem desafios, ele sofre com o tédio e a depressão.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/63926/63926.xml</externallink>
+</channel>
+
+<channel>
+<name>One Piece</name>
+<year>1999</year>
+<genre>Action & Adventure, Comédia e Animação</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/9ltisibeD4gzqjM1AzmQwCdyirQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg</fanart>
+<info>Houve um homem que conquistou tudo aquilo que o mundo tinha a oferecer, o lendário Rei dos Piratas, Gold Roger. Capturado e condenado à execução pelo Governo Mundial, suas últimas palavras lançaram legiões aos mares. "Meu tesouro? Se quiserem, podem pegá-lo. Procurem-no! Ele contém tudo que este mundo pode oferecer!". Foi a revelação do maior tesouro, o One Piece, cobiçado por homens de todo o mundo, sonhando com fama e riqueza imensuráveis... Assim começou a Grande Era dos Piratas!</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/37854/37854.xml</externallink>
+</channel>
 
 <channel>
 <name>Os Donos do Jogo</name>
