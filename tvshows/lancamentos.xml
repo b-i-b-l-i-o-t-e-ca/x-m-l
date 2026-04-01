@@ -2,6 +2,17 @@
 <channels>
 
 <channel>
+<name>Origem</name>
+<year>2022</year>
+<genre>Mistério, Drama, Sci-Fi & Fantasy</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/1RdC0xql5PNZZGr71LzJ5Ipvn08.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg</fanart>
+<info>Desvende o mistério de uma cidade no centro dos EUA. Enquanto os moradores lutam para manter um senso de normalidade, eles também devem sobreviver às ameaças da floresta ao redor, incluindo as criaturas aterrorizantes que surgem quando o sol se põe.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/124364/124364.xml</externallink>
+</channel>
+
+
+<channel>
 <name>INVENCÍVEL</name>
 <year>2021</year>
 <genre>Animação, Drama, Sci-Fi & Fantasy e Action & Adventure</genre>
