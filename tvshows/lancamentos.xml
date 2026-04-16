@@ -2,6 +2,16 @@
 <channels>
 
 <channel>
+<name>The Boys</name>
+<year>2029</year>
+<genre>Sci-Fi & Fantasy e Action & Adventure</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/in1R2dDc421JxsoRWaIIAqVI2KE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7cqKGQMnNabzOpi7qaIgZvQ7NGV.jpg</fanart>
+<info>Na trama, conhecemos um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/76479/05.xml</externallink>
+</channel>
+
+<channel>
 <name>Origem</name>
 <year>2022</year>
 <genre>Mistério, Drama, Sci-Fi & Fantasy</genre>
