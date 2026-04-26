@@ -893,6 +893,16 @@
 <!-- SERIES LETRA S INCIAL -->
 
 <channel>
+<name>Stranger Things: Histórias de 85</name>
+<year>2026</year>
+<genre>Animação, Sci-Fi & Fantasy, Mistério e Action & Adventure</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/zUdykEDaQrjGKnVnAAcua3kNiAG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg</fanart>
+<info>Hawkins, inverno de 1985. Esta é uma cidade cheia de segredos, e agora nossos queridos heróis terão que enfrentar novos mistérios e monstros inimagináveis.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/224263/01.xml</externallink>
+</channel>
+
+<channel>
 <name>Solar Opposites</name>
 <year>2020</year>
 <genre>Comédia, Animação e Sci-Fi & Fantasy</genre>
