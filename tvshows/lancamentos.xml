@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
+channel>
+<name>Cães de Caça</name>
+<year>2023</year>
+<genre>Drama, Action & Adventure e Crime</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/gB8FzvJPxXhYx5JtsjNA255XzfS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/b2iWqSFpuy9CS5XWiAmnLzNv9eP.jpg</fanart>
+<info>Dois jovens boxeadores se juntam a um agiota bonzinho para derrotar um concorrente que se aproveita das pessoas mais vulneráveis.</info>
+<externallink>https://raw.githubusercontent.com/b-i-b-l-i-o-t-e-ca/x-m-l/refs/heads/main/tvshows/01/127529/02.xml</externallink>
+</channel>
+
 <channel>
 <name>A Casa dos Espíritos</name>
 <year>2026</year>
